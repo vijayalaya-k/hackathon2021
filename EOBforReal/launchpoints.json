@@ -1,0 +1,35 @@
+{
+    "provider": {
+        "name": "Dr.Raj Rishi",
+        "dates": "1990",
+        "field": "Vision",
+        "bio": "Dr.Raj Rishi specilzies in Family Medicine.",
+        "country": "provider2",
+        "source": "NA"
+    },
+    "lab": {
+        "name": "Allergy Testing - Sequential and Incremental",
+        "dates": "1990",
+        "field": "Vision",
+        "bio": "Allergy testing is covered when clinically significant symptoms exist and conservative therapy has failed.",
+        "country": "lab2",
+        "source": "NA"
+    },
+    "office": {
+        "name": "Office Visit",
+        "dates": "1990",
+        "field": "Vision",
+        "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ",
+        "country": "office2",
+        "source": "NA"
+    },
+    "accountno": {
+        "name": "Account Number",
+        "dates": "1990",
+        "field": "Vision",
+        "bio": "Your Account number with your provider.",
+        "country": "accountno2",
+        "source": "NA"
+    }
+    
+}

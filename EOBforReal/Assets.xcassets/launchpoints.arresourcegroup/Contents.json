@@ -1,0 +1,20 @@
+{
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "resources" : [
+    {
+      "filename" : "accountno.arreferenceimage"
+    },
+    {
+      "filename" : "lab.arreferenceimage"
+    },
+    {
+      "filename" : "office.arreferenceimage"
+    },
+    {
+      "filename" : "provider.arreferenceimage"
+    }
+  ]
+}
